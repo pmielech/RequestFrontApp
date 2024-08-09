@@ -7,29 +7,29 @@
 ### Angular ###
 ## Angular ##
 # compiled output
-dist/
+ReqestFrontApp/dist/
 tmp/
 app/**/*.js
 app/**/*.js.map
 
 # dependencies
-node_modules/
-bower_components/
+ReqestFrontApp/node_modules/
+ReqestFrontApp/bower_components/
 
 # IDEs and editors
-.idea/
+ReqestFrontApp/.idea/
 
 # misc
-.sass-cache/
-connect.lock/
-coverage/
-libpeerconnection.log/
-npm-debug.log
-testem.log
-typings/
-.angular/
+ReqestFrontApp/.sass-cache/
+ReqestFrontApp/connect.lock/
+ReqestFrontApp/coverage/
+ReqestFrontApp/libpeerconnection.log/
+ReqestFrontApp/npm-debug.log
+ReqestFrontApp/testem.log
+ReqestFrontApp/typings/
+ReqestFrontApp/.angular/
 
 # e2e
-e2e/*.js
-e2e/*.map
+ReqestFrontApp/e2e/*.js
+ReqestFrontApp/e2e/*.map
 
